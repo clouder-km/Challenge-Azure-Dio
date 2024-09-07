@@ -1,4 +1,4 @@
-# WELCOME - Challenge-Azure-Dio
+Challenge-Azure-Dio
 
 ## Bem vindo ao repositório do Bootcamp Microsoft Essensials
 

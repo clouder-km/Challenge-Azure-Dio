@@ -48,4 +48,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 
 ---
 
-<span style="font-size: 1.5em; color: green;">**Boa sorte nos seus estudos para o exame AZ-900! 🍀**</span>
+<span style="font-size: 1.5em; color: green;">**Feito por Kelvin Moura! **</span>

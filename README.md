@@ -9,10 +9,10 @@ A melhor maneira de se preparar para o exame AZ-900 é praticando para assimilar
 ## Tópicos
 
 ### 1. Labs do Challenge DIO
-Aqui você encontrará uma série de laboratórios práticos que fazem parte do Challenge DIO. Esses labs são projetados para fornecer experiência prática com os serviços do Azure.
+Aqui você encontrará uma série de laboratórios práticos que fazem parte do Bootcamp Microsoft Essentials.
 
-### 2. Projetos e Desafios
-Nesta seção, você encontrará projetos e desafios que ajudarão a consolidar seu conhecimento sobre o Azure. Cada projeto vem com um conjunto de instruções detalhadas para guiá-lo.
+### 1.1 Projetos e Desafios
+Nesta seção, você encontrará projetos e desafios que completei no bootcamp cada desafio terá as instruções do passo a passo.
 
 - ⭐ Desafio 1 - [Conhecendo o Azure Portal](https://gihub.com). 
 - ⭐ Desafio 2 - [Criação de VMs Máquinas Virtuais](https://gihub.com).
@@ -27,14 +27,14 @@ Nesta seção, você encontrará projetos e desafios que ajudarão a consolidar 
 - ⭐ Desafio 11 - [Ferramentas de Monitoração do Azure](https://gihub.com).
 
 
-### 3. Documentação do Azure
+### 2. Documentação do Azure
 Para acessar a documentação oficial do Azure, clique [aqui](https://learn.microsoft.com/pt-br/azure/). A documentação é um recurso valioso para entender os conceitos e serviços do Azure.
 
-### 4. Microsoft Learn 
+### 3. Microsoft Learn 
 
 Explore o [Microsoft Learn - Modulo 1](https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/1-introduction), uma plataforma de aprendizado interativa que oferece módulos e caminhos de aprendizado para desenvolver suas habilidades com os produtos da Microsoft. É uma excelente ferramenta para complementar seus estudos e obter certificações reconhecidas.
 
-### 5. Dicas para Estudo do AZ-900
+### 4. Dicas para Estudo do AZ-900
 - **Estude os conceitos básicos**: Certifique-se de entender os conceitos fundamentais do Azure.
 - **Pratique com laboratórios**: Utilize os labs disponíveis para ganhar experiência prática.
 - **Use recursos oficiais**: A documentação do Azure e os cursos oficiais são ótimos recursos.

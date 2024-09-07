@@ -1,8 +1,8 @@
 # WELCOME - Challenge-Azure-Dio
 
-## Prepara-se para o Exame AZ-900
+## Bem vindo ao repositório do Bootcamp Microsoft Essensials
 
-Certificação do AZ-900 é conceitual estude todos os conceitos fundamentais e leia as documentações. Para ajudar a melhor entender os conceitos faça os Labs do Microsoft Learn. 
+A Certificação do AZ-900 é conceitual estude todos os conceitos fundamentais e leia as documentações. Para ajudar a melhor entender os conceitos faça os Labs do Microsoft Learn. 
 
 ## Tópicos
 

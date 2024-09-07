@@ -38,9 +38,6 @@ Explore o [Microsoft Learn - Modulo 1](https://learn.microsoft.com/en-us/trainin
 - **Use recursos oficiais**: A documentação do Azure e os cursos oficiais são ótimos recursos.
 - **Faça simulados**: Teste seus conhecimentos com simulados para se familiarizar com o formato do exame.
 
-## Contribuições
-Sinta-se à vontade para contribuir com este repositório. Se você tiver sugestões, melhorias ou novos labs, envie um pull request.
-
----
+--
 
 <span style="font-size: 1.5em; color: green;">** Feito por Kelvin Moura! **</span>

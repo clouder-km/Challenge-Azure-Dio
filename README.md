@@ -43,9 +43,6 @@ Explore o [Microsoft Learn - Modulo 1](https://learn.microsoft.com/en-us/trainin
 ## Contribuições
 Sinta-se à vontade para contribuir com este repositório. Se você tiver sugestões, melhorias ou novos labs, envie um pull request.
 
-## Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
 ---
 
-<span style="font-size: 1.5em; color: green;">**Feito por Kelvin Moura! **</span>
+<span style="font-size: 1.5em; color: green;">** Feito por Kelvin Moura! **</span>

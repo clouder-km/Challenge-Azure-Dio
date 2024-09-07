@@ -4,7 +4,7 @@
 
 A melhor maneira de se preparar para o exame AZ-900 é praticando para assimilar o conteúdo! Este repositório foi criado para ajudar você a se preparar de forma eficiente.
 
-**OBS:** Certificação do AZ-900 é conceitual estude todos os conceitos fundamentais e leia as documentações , para ajudar a melhor entender os conceitos faça os Labs do Microsoft Learn. 
+**OBS:** Certificação do AZ-900 é conceitual estude todos os conceitos fundamentais e leia as documentações. Para ajudar a melhor entender os conceitos faça os Labs do Microsoft Learn. 
 
 ## Tópicos
 

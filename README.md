@@ -10,7 +10,7 @@ Certificação do AZ-900 é conceitual estude todos os conceitos fundamentais e 
 Aqui você encontrará uma série de laboratórios práticos que fazem parte do Bootcamp Microsoft Essentials.
 
 ### 1.1 Projetos e Desafios
-Nesta seção, você encontrará projetos e desafios que completei no bootcamp cada desafio terá as instruções do passo a passo.
+Nesta seção, você encontrará projetos e desafios que completei no bootcamp cada desafio terá as instruções do passo a passo que eu fiz.
 
 - ⭐ Desafio 1 - [Conhecendo o Azure Portal](https://gihub.com). 
 - ⭐ Desafio 2 - [Criação de VMs Máquinas Virtuais](https://gihub.com).

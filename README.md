@@ -5,7 +5,7 @@ A Certificação do AZ-900 é conceitual estude todos os conceitos fundamentais 
 ## Tópicos
 
 ### 1. Labs do Challenge DIO
-Aqui você encontrará uma série de laboratórios práticos que fazem parte do Bootcamp Microsoft Essentials.
+Aqui você encontrará uma série de laboratórios práticos e materiais que utilizei para estudar que fazem parte do Bootcamp Microsoft Essentials.
 
 ### 1.1 Projetos e Desafios
 Nesta seção, você encontrará projetos e desafios que completei no bootcamp cada desafio terá as instruções do passo a passo que eu fiz.

@@ -10,7 +10,7 @@ Aqui você encontrará uma série de laboratórios práticos e materiais que uti
 ### 1.1 Projetos e Desafios
 Nesta seção, você encontrará projetos e desafios que completei no bootcamp cada desafio terá as instruções do passo a passo que eu fiz.
 
-- ⭐ Desafio 1 - [Conhecendo o Azure Portal](https://gihub.com). 
+- ⭐ Desafio 1 - [Conhecendo o Azure Portal](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/1%20-%20AZURE%20PORTAL.md). 
 - ⭐ Desafio 2 - [Criação de VMs Máquinas Virtuais](https://gihub.com).
 - ⭐ Desafio 3 - [Criação de uma instância de Banco de Dados](https://gihub.com).
 - ⭐ Desafio 4 - [Construir Arquitetura no Azure](https://gihub.com).

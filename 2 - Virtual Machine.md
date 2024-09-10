@@ -14,26 +14,26 @@ Para atender a essa necessidade , a solução envolve os seguintes passos:
         | Subscription1| Nome Unico | (US) East Us|
      - Clique em *"Review Create"* + *"Create"* - Aguarde fazer o Deploy.
 
-![alt text](<2 - Resource Group.PNG>)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/2%20-%20Resource%20Group.PNG)
 
-![alt text](<2.1 - Notificação Implementado.PNG>)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/2.1%20-%20Notifica%C3%A7%C3%A3o%20Implementado.PNG)
 
 2. #### Criar e Configurar Virtual Machine
       - Pesquise por *"Virtual Machine"* , *"+ Create"* , selecione *"Azure Virtual Machine"* e siga as instruções a seguir na Aba *"Basics"*:
       
-     ![alt text](<2.2 create vm-1.PNG>)
+     ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/2.2%20create%20vm.PNG)
       
      - Em *"Size"* Selecione a maquina virtual com base nas necessidades de CPU , Memória e Armazenamento
      - Em Administrator Account - defina o username e password para que o administrador possa se conectar a Vm
 
-     ![alt text](<2.3 create vm.PNG>)
+     ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/2.3%20create%20vm.PNG)
 
      - Next: Disk - Deixe em Default (como está) *lembre-se quando fazer implementações o azure sempre trás as melhores configurações sempre revise para diminuir os custos.*
 
-    ![alt text](<2.4 create vm.PNG>)
+    ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/2.4%20create%20vm.PNG)
      - *"Review Create"* + *"Create"* Aguarde o Deploy
 
-     ![alt text](<2.6 create VM.PNG>)
+     ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/2.6%20create%20VM.PNG)
 
     3. #### Conclusão
       - Seguindo os passos descritos, você conseguirá criar e configurar uma máquina virtual no Azure para fins de laboratório de forma eficiente. Este processo envolve a criação de um grupo de recursos para organizar todos os componentes do projeto e a configuração detalhada da máquina virtual conforme suas necessidades específicas de CPU, memória e armazenamento. Lembre-se de revisar as configurações padrão oferecidas pelo Azure para otimizar custos e garantir que a máquina virtual atenda aos requisitos do seu projeto.

@@ -14,7 +14,7 @@ Nesta seção, você encontrará projetos e desafios que completei no bootcamp c
 - ⭐ Desafio 2 - [Criação de VMs Máquinas Virtuais](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/2%20-%20Virtual%20Machine.md).
 - ⭐ Desafio 3 - [Criação de uma instância de Banco de Dados](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/3%20-%20Banco%20de%20dados.md).
 - ⭐ Desafio 4 - [Componentes de Arquitetura no Azure](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/4%20-%20Componentes%20de%20Arquitetura%20no%20Azure.md).
-- ⭐ Desafio 5 - [Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/5%20-%20Configurando%20recursos%20em%20Maquina%20Virtual.md).
+- ⭐ Desafio 5 - [Configurando Recursos em VMs ](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/5%20-%20Configurando%20recursos%20em%20Maquina%20Virtual.md).
 - ⭐ Desafio 6 - [Dominando o Armazenamento no Azure](https://gihub.com).
 - ⭐ Desafio 7 - [Entender sobre Identidade e Segurança no Azure](https://gihub.com).
 - ⭐ Desafio 8 - [Otimização de Custos do Azure](https://gihub.com).

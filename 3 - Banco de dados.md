@@ -22,32 +22,32 @@ O objetivo deste guia é demonstrar como criar e configurar uma instância de ba
        - Server: Crie um novo servidor , clique em *"Create new”.*
 
     - Preencha os campos:
-      - Server name: Nome único para o servidor.
-      - Location: Mesma Região do Resource Group
-      - Authetication method: Selecione um metodo de autenticação ou Ambos metodos de autenticação para o administrador do DBA possa ter acesso ao Database:
+      - Server name: *“Nome único para o servidor*“
+      - Location: *“Mesma Região do Resource Group*“
+      - Authetication method: *“Selecione um metodo de autenticação ou Ambos metodos de autenticação para o administrador do DBA possa ter acesso ao Database:*“
         - Microsoft Entra - Entrar usando as credenciais do Azure
         - SQL Authentication - Entrar definindo credenciais "Server Admin" e "password"
 
         ![alt text](<DBA CREATE SERVER.PNG>)
         
-    - Clique em OK
+    - Clique em *“OK*“
         
     - Compute + storage: Selecione a configuração de desempenho e armazenamento conforme suas necessidades. 
-      - Service tier : Selecionar a camada de serviço 
-      - Compute tier : Provisioned - Custo fixo e Computação de alto desempenho -> Indicado para ambiente em produção ou Serverless - Custo variavel , baseado no uso e permite auto-pause (pausa automaticamente o banco de dados quando estiver inativo pelo periodo especificado e retoma atividade quando estiver em uso)-> Indicado para ambiente de desenvolvimento
+      - Service tier : *“Selecionar a camada de serviço*“
+      - Compute tier : *“Provisioned*“ - Custo fixo e Computação de alto desempenho -> Indicado para ambiente em produção ou *“Serverless*“ - Custo variavel , baseado no uso e permite auto-pause (pausa automaticamente o banco de dados quando estiver inativo pelo periodo especificado e retoma atividade quando estiver em uso)-> Indicado para ambiente de desenvolvimento
 
       ![alt text](<CONFIGURE DBA.PNG>)
       ![alt text](<AUTO PAUSE.PNG>)
 
    - Backup Storage redundancy 
-     -LRS - Grava os dados em 1 zona na mesma região - Ideal para ambientes menos críticos.
-     -ZRS - Grava os dados em 3 zonas diferentes na mesma região - Ideal para app que necessitam de alto disponibilidade e resiliência contra falhas de zona
-     -GRS - Grava os dados em 1 zona na mesma região e faz replicação para outra região gravando em 1 zona - Ideal para proteção contra desastres regionais.
-     -GZRS - Grava os dados em 3 zonas diferentes na mesma região e faz replicação para outra região em 1 zona.
+     -*“LRS*“ - Grava os dados em 1 zona na mesma região - Ideal para ambientes menos críticos.
+     -*“ZRS*“ - Grava os dados em 3 zonas diferentes na mesma região - Ideal para app que necessitam de alto disponibilidade e resiliência contra falhas de zona
+     -*“GRS*“ - Grava os dados em 1 zona na mesma região e faz replicação para outra região gravando em 1 zona - Ideal para proteção contra desastres regionais.
+     -*“GZRS*“ - Grava os dados em 3 zonas diferentes na mesma região e faz replicação para outra região em 1 zona.
 
      ![alt text](<DBA PRONTO.PNG>)
 
-    - Clique em “Review + Create” e depois em “Create” e aguarde o Deploy
+    - Clique em *“Review + Create”* e depois em *“Create”* e aguarde o Deploy
 
 3. #### Configurar o Banco de Dados
     Após a criação da instância, é necessário configurar o banco de dados para garantir segurança e desempenho.

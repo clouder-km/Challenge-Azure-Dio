@@ -37,27 +37,28 @@ Descrição: Um contêiner de blob é usado para armazenar grandes quantidades d
     - A migração de dados é o processo de transferir dados de um sistema ou ambiente de armazenamento para outro. Esse processo pode ser complexo e requer planejamento cuidadoso para garantir que os dados sejam transferidos de forma segura e eficiente. Aqui estão os passos principais para realizar uma migração de dados:
 
 ## Planejamento e Avaliação
-    - Revisar os Dados de Origem: Examine e descreva os dados existentes. Identifique a estrutura e os atributos dos dados que serão migrados1.
-    - Determinar o Destino: Escolha a solução de armazenamento de dados de destino com base na estrutura e nos requisitos dos dados de origem1.
-    - Definir a Estratégia de Migração: Decida se a migração será feita de uma só vez (big bang) ou em etapas (trickle-feed). O método big bang envolve mover todos os dados de uma vez, enquanto o trickle-feed migra os dados em pequenas partes ao longo do tempo.
+  - Revisar os Dados de Origem: Examine e descreva os dados existentes. Identifique a estrutura e os atributos dos dados que serão migrados1.
+  - Determinar o Destino: Escolha a solução de armazenamento de dados de destino com base na estrutura e nos requisitos dos dados de origem1.
+  - Definir a Estratégia de Migração: Decida se a migração será feita de uma só vez (big bang) ou em etapas (trickle-feed). O método big bang envolve mover todos os dados de uma vez, enquanto o trickle-feed migra os dados em pequenas partes ao longo do tempo.
 
 ## Preparação dos Dados
-    - Mapeamento de Dados: Identifique a estrutura do sistema de destino e mapeie as tabelas e campos correspondentes do sistema de origem.
-    - Perfil de Dados: Verifique a qualidade e a consistência dos dados de origem. Identifique problemas de dados e regras de conversão necessárias.
-    - Transformação de Dados: Aplique as regras de conversão e transforme os dados do sistema de origem para o formato do sistema de destino3.
+  - Mapeamento de Dados: Identifique a estrutura do sistema de destino e mapeie as tabelas e campos correspondentes do sistema de origem.
+  - Perfil de Dados: Verifique a qualidade e a consistência dos dados de origem. Identifique problemas de dados e regras de conversão necessárias.
+  - Transformação de Dados: Aplique as regras de conversão e transforme os dados do sistema de origem para o formato do sistema de destino3.
 
 ## Execução da Migração
 
-    - Extração de Dados: Remova os dados do sistema atual para começar a trabalhar neles1.
-    - Carregamento de Dados: Transfira os dados transformados para o sistema de destino.
-    - Reconciliamento de Dados: Verifique se os dados foram migrados corretamente e completamente. Acompanhe o progresso da migração e os pontos de reversão.
+  - Extração de Dados: Remova os dados do sistema atual para começar a trabalhar neles1.
+  - Carregamento de Dados: Transfira os dados transformados para o sistema de destino.
+  - Reconciliamento de Dados: Verifique se os dados foram migrados corretamente e completamente. Acompanhe o progresso da migração e os pontos de reversão.
 ## Teste e Validação
-    - Testar a Solução: Realize testes para garantir que os dados foram migrados corretamente e que o sistema de destino está funcionando conforme esperado.
-    - Auditoria de Dados: Realize uma auditoria final para garantir que todos os dados foram migrados e que não há perda ou corrupção de dados.
+
+  - Testar a Solução: Realize testes para garantir que os dados foram migrados corretamente e que o sistema de destino está funcionando conforme esperado.
+  - Auditoria de Dados: Realize uma auditoria final para garantir que todos os dados foram migrados e que não há perda ou corrupção de dados.
 ## Monitoramento e Ajustes
-    - Monitorar o Desempenho: Utilize ferramentas de monitoramento para acompanhar o desempenho do sistema de destino e fazer ajustes conforme necessário.
-    - Ajustar Regras de Migração: Se necessário, ajuste as regras de migração para otimizar o desempenho e a eficiência.
+  - Monitorar o Desempenho: Utilize ferramentas de monitoramento para acompanhar o desempenho do sistema de destino e fazer ajustes conforme necessário.
+  - Ajustar Regras de Migração: Se necessário, ajuste as regras de migração para otimizar o desempenho e a eficiência.
 ## Conclusão
 - Seguindo esses passos, você pode configurar uma conta de armazenamento no Azure com redundância GRS e criar um contêiner de blob para armazenar grandes quantidades de dados não estruturados. A migração de dados, quando bem planejada e executada, garante que os dados sejam transferidos de forma segura e eficiente para o novo ambiente de armazenamento.
 
-- Ao monitorar e ajustar continuamente o desempenho, você pode otimizar a eficiência e garantir que os dados estejam sempre disponíveis e protegidos. Essa abordagem não só melhora a resiliência e a disponibilidade dos seus dados, mas também proporciona uma solução de backup robusta e confiável.
+- Ao monitorar e ajustar continuamente o desempenho, você pode otimizar a eficiência e garantir que os dados estejam sempre disponíveis e protegidos. Essa abordagem não só melhora a resiliência e a disponibilidade dos seus dados, mas também proporciona uma solução de backup robusta e confiável. #

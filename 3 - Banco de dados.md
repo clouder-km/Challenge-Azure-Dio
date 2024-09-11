@@ -52,9 +52,9 @@ O objetivo deste guia é demonstrar como criar e configurar uma instância de ba
 3. #### Configurar o Banco de Dados
     Após a criação da instância, é necessário configurar o banco de dados para garantir segurança e desempenho.
 
-      Firewall e redes virtuais: Configure as regras de firewall para permitir o acesso ao banco de dados.
-      Auditoria e ameaças: Ative a auditoria e a detecção de ameaças para monitorar atividades suspeitas.
-      Backups: Configure políticas de backup para garantir a recuperação de dados em caso de falhas.
+      - Firewall e redes virtuais: Configure as regras de firewall para permitir o acesso ao banco de dados.
+      - Auditoria e ameaças: Ative a auditoria e a detecção de ameaças para monitorar atividades suspeitas.
+      - Backups: Configure políticas de backup para garantir a recuperação de dados em caso de falhas.
 
 
 ## Conclusão

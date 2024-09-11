@@ -19,9 +19,9 @@ Preencha os campos na aba *“Basics”*:
    - Region: *"Escolha a mesma região do grupo de recursos*".
    - Availability Options: *"Availability Set"*
 
-![alt text](<4 - RECURSO VMS.PNG>)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/4%20-%20RECURSO%20VMS.PNG)
 
-![alt text](<4 - RECURSO VMS 2.PNG>)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/4%20-%20RECURSO%20VMS%202.PNG)
 
 
 - Em Availability Sets clique em *"Create New"*
@@ -29,18 +29,18 @@ Preencha os campos na aba *“Basics”*:
    - Defina Fault Domains e Update Domains (Ao distribuir VMs em diferentes Fault Domain, o Azure garante que uma falha de hardware em um rack não afete todas as VMs) e (O Azure distribui VMs em diferentes Update Domains para garantir que apenas uma parte das VMs seja reiniciada de cada vez durante as atualizações, minimizando o impacto no serviço.)
 
  
-![alt text](<4 - CREATE AVAIBILITY SET.PNG>)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/4%20-%20CREATE%20AVAIBILITY%20SET.PNG)
 
    - Clique em *"OK"*
 
    - Image: *"Selecione a imagem do sistema operacional"*.
    - Size: *"Escolha o tamanho da VM."*
     
-![alt text](<4 - RECURSO VMS 2.PNG>)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/4%20-%20RECURSO%20VMS%202.PNG)
 
 - Administrator Account: Defina o username e password do administrador.
 
-![alt text](<4 - ADMIN.PNG>)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/4%20-%20ADMIN.PNG)
 
 - Clique em “Next: Review Create"
 - Revise todas as configurações e crie a VM.
@@ -56,7 +56,7 @@ Preencha os campos na aba *“Basics”*:
 Availability Zone: None
 Region: Escolha a mesma região do grupo de recursos.
 
-![alt text](<scale set subs.PNG>)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/4%20-%20Scale%20Set%201.PNG)
 
 - Em Scaling Mode clique em "Autoscaling" (Baseado em metricas do CPU)
   - Defina as regras de dimensionamento para que novas VMs sejam provisionadas automaticamente quando a demanda aumentar e desprovisionadas quando a demanda diminuir. 
@@ -64,7 +64,7 @@ Region: Escolha a mesma região do grupo de recursos.
 Defina as métricas de desempenho (como uso de CPU ou memória) que acionarão o provisionamento ou desprovisionamento de VMs adicionais.
 Configure o número mínimo e máximo de VMs no scale set para garantir que haja capacidade suficiente durante os picos de demanda.
 
-![alt text](<4 - Scale Set 2.PNG>)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/4%20-%20Scale%20Set%202.PNG)
 
 
 Image: Selecione a imagem do sistema operacional.
@@ -72,9 +72,9 @@ Size: Escolha o tamanho das VMs.
 
 Clique em “Review + Create” e depois em “Create”.
 
-![alt text](<4 - Scale Set 3.PNG>)
-![alt text](<4 - Scale set 4.PNG>)
-![alt text](<4 - Scale Set 5.PNG>)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/4%20-%20Scale%20Set%203.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/4%20-%20Scale%20set%204.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/4%20-%20Scale%20Set%205.PNG)
 
 
 Scale Set : O Azure provisiona e desprovisiona VMs automaticamente com base na demanda, garantindo que o aplicativo web possa lidar com picos de tráfego sem interrupções.

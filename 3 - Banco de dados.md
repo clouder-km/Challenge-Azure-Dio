@@ -12,7 +12,7 @@ O objetivo deste guia é demonstrar como criar e configurar uma instância de ba
 
     - Na barra de pesquisa do Azure, digite *“SQL Database”* e selecione *“+ Create”*.
 
-    ![alt text](<DBA CREATE.PNG>)
+    [![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/DBA%20CREATE.PNG)
 
     - Na aba “Basics”, preencha os campos:
       - Subscription: Selecione sua assinatura
@@ -28,7 +28,7 @@ O objetivo deste guia é demonstrar como criar e configurar uma instância de ba
         - Microsoft Entra - Entrar usando as credenciais do Azure
         - SQL Authentication - Entrar definindo credenciais "Server Admin" e "password"
 
-        ![alt text](<DBA CREATE SERVER.PNG>)
+        ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/DBA%20CREATE%20SERVER.PNG)
         
     - Clique em *“OK*“
         
@@ -36,8 +36,8 @@ O objetivo deste guia é demonstrar como criar e configurar uma instância de ba
       - Service tier : *“Selecionar a camada de serviço*“
       - Compute tier : *“Provisioned*“ - Custo fixo e Computação de alto desempenho -> Indicado para ambiente em produção ou *“Serverless*“ - Custo variavel , baseado no uso e permite auto-pause (pausa automaticamente o banco de dados quando estiver inativo pelo periodo especificado e retoma atividade quando estiver em uso)-> Indicado para ambiente de desenvolvimento
 
-      ![alt text](<CONFIGURE DBA.PNG>)
-      ![alt text](<AUTO PAUSE.PNG>)
+      ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/CONFIGURE%20DBA.PNG)
+      ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/AUTO%20PAUSE.PNG)
 
    - Backup Storage redundancy 
      -*“LRS*“ - Grava os dados em 1 zona na mesma região - Ideal para ambientes menos críticos.
@@ -45,7 +45,7 @@ O objetivo deste guia é demonstrar como criar e configurar uma instância de ba
      -*“GRS*“ - Grava os dados em 1 zona na mesma região e faz replicação para outra região gravando em 1 zona - Ideal para proteção contra desastres regionais.
      -*“GZRS*“ - Grava os dados em 3 zonas diferentes na mesma região e faz replicação para outra região em 1 zona.
 
-     ![alt text](<DBA PRONTO.PNG>)
+     ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/DBA%20PRONTO.PNG)
 
     - Clique em *“Review + Create”* e depois em *“Create”* e aguarde o Deploy
 

@@ -20,8 +20,8 @@ A conta de armazenamento é usada para armazenar dados de diferentes tipos, como
    - *"Next : *"Review Create "* (Revise todas as configurações)
    - *"+ Create"*
 
-![alt text](<1 - Storage.PNG>)
-![alt text](<2 - storage deploy.PNG>)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/1%20-%20Storage.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/2%20-%20storage%20deploy.PNG)
 
 2. Criar um Contêiner de Blob
 Descrição: Um contêiner de blob é usado para armazenar grandes quantidades de dados não estruturados.
@@ -30,14 +30,14 @@ Descrição: Um contêiner de blob é usado para armazenar grandes quantidades d
    - Insira um nome para o contêiner e defina o nível de acesso private
    - Clique em “Create”.
 
-   ![alt text](<2 - BLOB.PNG>)
+   ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/2%20-%20BLOB.PNG)
 
 ## Migração de dados
 
-    - A migração de dados é o processo de transferir dados de um sistema ou ambiente de armazenamento para outro. Esse processo pode ser complexo e requer planejamento cuidadoso para garantir que os dados sejam transferidos de forma segura e eficiente. Aqui estão os passos principais para realizar uma migração de dados:
+  - A migração de dados é o processo de transferir dados de um sistema ou ambiente de armazenamento para outro. Esse processo pode ser complexo e requer planejamento cuidadoso para garantir que os dados sejam transferidos de forma segura e eficiente. Aqui estão os passos principais para realizar uma migração de dados:
 
 ## Planejamento e Avaliação
-  - Revisar os Dados de Origem: Examine e descreva os dados existentes. Identifique a estrutura e os atributos dos dados que serão migrados1.
+  - Revisar os Dados de Origem: Examine e descreva os dados existentes. Identifique a estrutura e os atributos dos dados que serão migrados.
   - Determinar o Destino: Escolha a solução de armazenamento de dados de destino com base na estrutura e nos requisitos dos dados de origem1.
   - Definir a Estratégia de Migração: Decida se a migração será feita de uma só vez (big bang) ou em etapas (trickle-feed). O método big bang envolve mover todos os dados de uma vez, enquanto o trickle-feed migra os dados em pequenas partes ao longo do tempo.
 

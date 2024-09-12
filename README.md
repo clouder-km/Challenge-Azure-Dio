@@ -8,15 +8,15 @@ A Certificação do AZ-900 é conceitual estude todos os conceitos fundamentais 
 Aqui você encontrará uma série de laboratórios práticos e materiais que utilizei para estudar que fazem parte do Bootcamp Microsoft Essentials.
 
 ### 1.1 Projetos e Desafios
-Nesta seção, você encontrará projetos e desafios que completei no bootcamp cada desafio terá as instruções do passo a passo que eu fiz.
+Nesta seção, você encontrará projetos e desafios que completei no Bootcamp DIO : cada desafio terá as instruções do passo a passo que eu fiz.
 
 - ⭐ Desafio 1 - [Conhecendo o Azure Portal](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/1%20-%20AZURE%20PORTAL.md). 
 - ⭐ Desafio 2 - [Criação de VMs Máquinas Virtuais](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/2%20-%20Virtual%20Machine.md).
 - ⭐ Desafio 3 - [Criação de uma instância de Banco de Dados](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/3%20-%20Banco%20de%20dados.md).
 - ⭐ Desafio 4 - [Componentes de Arquitetura no Azure](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/4%20-%20Componentes%20de%20Arquitetura%20no%20Azure.md).
 - ⭐ Desafio 5 - [Configurando Recursos em VMs ](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/5%20-%20Configurando%20recursos%20em%20Maquina%20Virtual.md).
-- ⭐ Desafio 6 - [Dominando o Armazenamento no Azure](https://gihub.com).
-- ⭐ Desafio 7 - [Entender sobre Identidade e Segurança no Azure](https://gihub.com).
+- ⭐ Desafio 6 - [Dominando o Armazenamento no Azure](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/6%20-%20Configurar%20Armazenamento%20(Storage).md).
+- ⭐ Desafio 7 - [Entender sobre Identidade e Segurança no Azure]().
 - ⭐ Desafio 8 - [Otimização de Custos do Azure](https://gihub.com).
 - ⭐ Desafio 9 - [Gerenciamento de Acessos e Política no Azure](https://gihub.com).
 - ⭐ Desafio 10 - [Ferramentas de Implantação no Azure](https://gihub.com).

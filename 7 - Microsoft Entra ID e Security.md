@@ -22,15 +22,15 @@ O Microsoft Entra ID é uma plataforma baseada na nuvem da Microsoft para gerenc
 - Procure por Microsoft Entra ID
 - Em Overview *"+ add" , "user" , "Invite External User"*
 
-![alt text](B2B.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/B2B.PNG)
 
 - Em *"basics"* somente o *"Email"* é obrigatório preencher, o restante é opcional.
 
-![alt text](B2B1.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/B2B1.PNG)
 
 - Em *"Properties"* confira a imagem abaixo:
 
-![alt text](B2B2.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/B2B2.PNG)
 
 *"Aqui é tudo opcional , mas para melhores práticas sempre é bom colocar as informações importantes"*
 
@@ -40,29 +40,29 @@ Proprietário: Concede acesso total para gerenciar todos os recursos, incluindo 
 
 Colaborador: Permite gerenciar todos os recursos, mas não permite atribuir funções a outros usuários.
 
-![alt text](B2B3.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/B2B3.PNG)
 
 - Clique em *"Select"*
 - Clique em *"Review + Invite"* (revise todas as informações)
 
-![alt text](B2B4.PNG)
-![alt text](B2B5.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/B2B4.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/B2B5.PNG)
 
 - Clique em *"Invite"*
 
 - O email chegará a este usuário dessa forma abaixo e este usuário poderá acessar o seu ambiente para exercer a função que lhe foi concedida.
 
-![alt text](<EMAIL RECEBE.PNG>)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/EMAIL%20RECEBE.PNG)
 
 #### Como utilizar o B2C ?
 
 - No menu do portal do Azure ou na Página Inicial, selecione *"Create resource"*
 
-![alt text](B2C1.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/B2C1.PNG)
 
 - Pesquise e selecione *"Azure Active Directory B2C"* e selecione *"Create"*
 
-![alt text](B2C2-1.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/B2C2.PNG)
 
 - Organization name: insira um nome para o seu Azure AD B2C.
 - Initial domain name: insira um nome de domínio para o seu Azure AD B2C.
@@ -70,7 +70,7 @@ Colaborador: Permite gerenciar todos os recursos, mas não permite atribuir fun�
 - Subscription, selecione sua subscription na lista.
 - Resource Group, selecione ou pesquise pelo grupo de recursos que conterá no Tenant (Azure AD B2C)
 
-![alt text](B2C3.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/B2C3.PNG)
 
 - Clique em *"Review + Create"* (revise as informações) e Clique *"Create"*
 
@@ -78,7 +78,7 @@ Colaborador: Permite gerenciar todos os recursos, mas não permite atribuir fun�
 
   - Clique no canto superior direito onde esta escrito Diretório Padrão e clique em *"Switch Directory"* Clique em "Switch"
   
-  ![alt text](B2C4.PNG)
+  ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/B2C4.PNG)
 
 
   ### Segurança
@@ -98,10 +98,10 @@ Colaborador: Permite gerenciar todos os recursos, mas não permite atribuir fun�
 
     - Para usar o MFA precisa garantir uma Subscription Premium conforme mostra a imagem abaixo.
 
-![alt text](MFA1.PNG)
-![alt text](MFA2.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/MFA1.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/MFA2.PNG)
 
-![alt text](MFA3.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/MFA3.PNG)
 
 [Documentação MFA](https://learn.microsoft.com/pt-br/entra/identity/authentication/tutorial-enable-azure-mfa)
 
@@ -114,7 +114,7 @@ Colaborador: Permite gerenciar todos os recursos, mas não permite atribuir fun�
   - Application (Aplicação)
   - Detection Risk (Detecção de Risco) 
 
-  ![alt text](<Conditional Access.PNG>)
+  ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/Conditional%20Access.PNG)
 
 ### Microsoft Defender for Cloud
 
@@ -124,7 +124,7 @@ O Microsoft Defender for Cloud é uma ferramenta de gerenciamento de postura de 
 - **Proteção contra ameaças**: Detecta ameaças em tempo real e fornece alertas e insights para ajudar a mitigar riscos com o Azure Security Benchmark.
 - **Gerenciamento de conformidade**: Ajuda a garantir que suas cargas de trabalho estejam em conformidade com padrões de segurança e regulamentações.
 
-![alt text](Defender.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/Defender.PNG)
 
 
 ### Conclusão

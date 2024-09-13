@@ -21,14 +21,14 @@ O **Microsoft Service Trust Portal (STP)** é um ponto central para informaçõe
 - Acesse o [Portal Azure]()
 - Vá para Resource Group 
 - Em *"Settings"* : *"Locks"*
-![alt text](LOCK.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/LOCK.PNG)
 
 - *"+ add"*
   - Lock name: Nome do Lock
   - Lock Type: Tipo do Lock (Delete)
   - Notes: Mensagem importante para o Lock 
 
-![alt text](LOCK2.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/LOCK2.PNG)
 
 - Por exemplo caso o usuário administrador do ambiente não saiba do que se trata esse *"resource group ou resource"* e o usuário for deletar,  o azure vai apresentar mensagem de erro e o motivo do erro e o usuário vai para "locks" e aparecerá o lock com a mensagem que configuramos em *"notes"*.
 
@@ -36,14 +36,14 @@ O **Microsoft Service Trust Portal (STP)** é um ponto central para informaçõe
 - Forneça o nome do *"resource group"*
 - Marque a caixa * "Apply force delete ..."*
 - Clique em *"Delete"* e confirme o *"Delete"*
- ![alt text](LOCK5.PNG)
+ ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/LOCK5.PNG)
 
 - Aparecerá mensagem de erro
-![alt text](LOCK6.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/LOCK6.PNG)
 
 - Volte em "Locks" e veja que tem um lock e uma mensagem que configuramos.
 
-![alt text](LOCK3.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/LOCK3.PNG)
 
 
 ## Lock Read no Resource
@@ -53,15 +53,15 @@ O **Microsoft Service Trust Portal (STP)** é um ponto central para informaçõe
 - Clique em *"Settings" 
    - *"Locks"*
    - *"+ add"* e preencha as informações (Read)
-   ![alt text](LOCKREAD.PNG)
+   ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/LOCKREAD.PNG)
 
 - Em *"Availability + Scale"* clique em *"Size"*
   - Selecione a atualização de Vm que atenda a sua necessidade
   - Click em *"resize"* e confirme *"resize"*
-  ![alt text](LOCKREAD2.PNG)
+  ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/LOCKREAD2.PNG)
 
 - Aparecerá mensagem de erro
-![alt text](LOCKREAD3.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/LOCKREAD3.PNG)
 
 - Volte em "Locks" e veja que tem um lock e uma mensagem que configuramos.
 
@@ -71,22 +71,22 @@ O **Microsoft Service Trust Portal (STP)** é um ponto central para informaçõe
 - Selecione os resources que quer mover
 - Clique em Move
 - Clique em Move to another resource group
-![alt text](MOVE1.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/MOVE1.PNG)
 
 - Selecione o outro resource group e clique em next
 
-![alt text](MOVE2.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/MOVE2.PNG)
 
 - Aguarde checar e clique em Next
 
-![alt text](MOVE3.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/MOVE3.PNG)
 
 - Marque a caixa *"I understand ... "*
-![alt text](move4.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/move4.PNG)
 
 - Aguarde mover e aparecerá a mensagem de confirmação que foi movido
 
-![alt text](move5.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/move5.PNG)
 
 ## Atribuição de Politicas
 
@@ -96,23 +96,23 @@ O **Microsoft Service Trust Portal (STP)** é um ponto central para informaçõe
 - Em Scope " deixa a subscription"
 - Em Policy Definition "Defina uma politica"
 
-![alt text](policy1.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/policy1.PNG)
 
 - Em parameters " defina uma tag *RH" 
 
-![alt text](POLICY2.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/POLICY2.PNG)
 
 - Review Create *"Save"*
 
 Neste caso defini uma politica no nivel da Assinatura para exigir a tag RH quando criar um grupo de recurso.
 Para testar esta politica - Tentei criar um resource group sem tag e na ultima etapa quando clicar em create vai aparecer essa mensagem de erro.
 
-![alt text](POLICY3.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/POLICY3.PNG)
 
 Agora se atribuir a tag RH irá criar o resource group 
 
-![alt text](pOLICY4.PNG)
-![alt text](POLICY5.PNG) 
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/pOLICY4.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/POLICY5.PNG) 
 
 ## Conclusão
 

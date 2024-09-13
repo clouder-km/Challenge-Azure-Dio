@@ -25,7 +25,7 @@ A Calculadora de TCO ajuda a estimar a economia de custos ao migrar suas cargas 
 
 1. Vá para [Calculadora de Preços do Azure](https://azure.microsoft.com/pt-br/pricing/calculator/)
 
-![alt text](<princing calculator azure.PNG>)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/princing%20calculator%20azure.PNG)
 
 ### Criar uma Estimativa
 
@@ -34,22 +34,22 @@ A Calculadora de TCO ajuda a estimar a economia de custos ao migrar suas cargas 
 3. Revise o resumo da estimativa para ver os custos totais.
 5. Salve ou exporte a estimativa para referência futura.
 
-![alt text](<princing calculator azure 1-1.PNG>)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/princing%20calculator%20azure%201.PNG)
 
 ### Passo 3: Utilizar a Calculadora de TCO
 
 1. Acesse a [Calculadora TCO do Azure](https://azure.microsoft.com/pt-br/pricing/tco/calculator/)
 2. Insira os detalhes da sua infraestrutura atual.
 
-![alt text](TCO1.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/TCO1.PNG)
 
 3. Preencha as informações de acordo com os gastos da empresa com seu Datacenter.
 
-![alt text](TCO2.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/TCO2.PNG)
 
 3. Compare os custos atuais com os custos estimados no Azure.
 
-![alt text](tco3.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/tco3.PNG)
 
 ## Exemplos Utilizados
 

@@ -104,12 +104,12 @@ O **Microsoft Service Trust Portal (STP)** é um ponto central para informaçõe
 
 - Review Create *"Save"*
 
-Neste caso defini uma politica no nivel da Assinatura para exigir a tag RH quando criar um grupo de recurso.
-Para testar esta politica - Tentei criar um resource group sem tag e na ultima etapa quando clicar em create vai aparecer essa mensagem de erro.
+- ** Neste caso defini uma politica no nivel da Assinatura para exigir a tag RH quando criar um grupo de recurso.**
+- ** Para testar esta politica - Tentei criar um resource group sem tag e na ultima etapa quando clicar em create vai aparecer essa mensagem de erro. **
 
 ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/POLICY3.PNG)
 
-Agora se atribuir a tag RH irá criar o resource group 
+- ** Agora se atribuir a tag RH irá criar o resource group **
 
 ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/pOLICY4.PNG)
 ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/POLICY5.PNG) 

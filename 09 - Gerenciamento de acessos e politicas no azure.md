@@ -1,7 +1,7 @@
 # Gerenciamento de acessos e politicas no azure
 
 ## Objetivo
-Como utilizar locks e políticas no Azure para proteger e gerenciar recursos, garantindo conformidade e segurança no ambiente de nuvem.
+Conhecer o Portal Service Trust e como utilizar locks e políticas no Azure para proteger e gerenciar recursos, garantindo conformidade e segurança no ambiente de nuvem.
 
 ## Microsoft Service Trust Portal
 

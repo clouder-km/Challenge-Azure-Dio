@@ -9,7 +9,7 @@
 
 O "Azure Monitor" é uma solução abrangente para coletar, analisar e responder a dados de monitoramento de ambientes de nuvem e locais. Ele ajuda a maximizar a disponibilidade e o desempenho de aplicativos e serviços, fornecendo insights detalhados sobre a operação dos recursos.
 
-![alt text](MONITOR.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/MONITOR.PNG)
 
 
 ### Activity Log
@@ -36,7 +36,7 @@ A aba *"Insights"* no Azure Monitor oferece visualizações personalizadas e det
 
 O "Azure Advisor" é um serviço que oferece recomendações personalizadas para otimizar suas implantações no Azure. Ele analisa a configuração e o uso dos recursos e sugere melhorias em áreas como alta disponibilidade, segurança, desempenho e custo.
 
-![alt text](Advisor.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/Advisor.PNG)
 
 ### Overview
 A aba *"Overview"* fornece uma visão geral das recomendações do Azure Advisor.

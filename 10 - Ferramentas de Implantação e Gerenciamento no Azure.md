@@ -15,16 +15,16 @@ O Azure Cloud Shell é uma ferramenta que você pode usar diretamente no navegad
 
 ### Para acessar o Cloud Shell
 - No canto superior direito clique em "Cloud Shell" abrirá em Bash
-- ![alt text](<cloud shell1-1.PNG>)
+- ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/cloud%20shell1.PNG)
 - Em *"Switch to Power Shell"* troca para o Power Shell 
-![alt text](<cloud shell2.PNG>)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/cloud%20shell2.PNG)
 - Em *"Manage Files"* pode fazer upload e download de arquivos.
-- ![alt text](<cloud shell3.PNG>) 
+- ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/cloud%20shell3.PNG) 
 
 - Versão Bash - Interface Preta
-![alt text](<cloud shell4.PNG>)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/cloud%20shell4.PNG)
 - Versão Power Shell - Interface Azul
-![alt text](<cloud shell5.PNG>)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/cloud%20shell5.PNG)
 
 *" Podemos acessar o azure via comando usando *"Bash ou PowerShell"* através da sua Maquina Local é possivel desde que esteja instalado os modulos do Azure nela.
 
@@ -35,14 +35,14 @@ O Azure Cloud Shell é uma ferramenta que você pode usar diretamente no navegad
 "Implementar um recurso qualquer manualmente no azure" Ex: Virtual Machine | Vnet
 - Na aba *"Automation"* em Vnet temos:
   - CLI/PS : Mostra alguns comandos de implementação de uma Vnet para serem executados via comando *"Bash ou PowerShell"*
-  - ![alt text](CLI.PNG)
-  - ![alt text](PS.PNG)
+  - ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/CLI.PNG))
+  - ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/PS.PNG)
 - Export Template :  Mostra o arquivo (Template) no formato JSON para salvar em nossa maquina local e re-utilizar no futuro o mesmo recurso configurado , quando necessário. Pode ser implementado via comando no **"Bash ou power shell"** no Cloud Shell
-  -  ![alt text](<EXPORT TEMPLATE.PNG>)
+  -  ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/EXPORT%20TEMPLATE.PNG)
 
     
 - Ao salvar o arquivo na Maquina Local temos o arquivo Template.JSON e Parameters.JSON , o Template é o recurso em comando e o Parameters é usado para alterar o template.
-  - ![alt text](arquivos.PNG)
+  - ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/arquivos.PNG)
 
 ## Azure Arc
 
@@ -50,7 +50,7 @@ O **Azure Arc** é uma solução que estende a plataforma Azure para gerenciar r
 
 #### Abas do Azure Arc
 
-![alt text](ARC.PNG)
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/ARC.PNG)
 
 
 - Azure Arc Resources - Esta aba permite que você gerencie recursos que não estão no Azure, como servidores físicos, máquinas virtuais e clusters Kubernetes, como se estivessem no Azure.
@@ -83,4 +83,4 @@ Essas ferramentas juntas proporcionam uma plataforma poderosa e flexível para a
 # Referência
 
 - [Documentação de Aplicativo via ARM](https://learn.microsoft.com/pt-br/azure/app-service/quickstart-arm-template?pivots=platform-linux)
--  [Azure Arc](https://learn.microsoft.com/pt-br/azure/azure-arc/overview)
+-  [Documentação Azure Arc](https://learn.microsoft.com/pt-br/azure/azure-arc/overview)

@@ -84,3 +84,7 @@ Alta Disponibilidade: A solução garante alta disponibilidade do aplicativo web
 ## Conclusão
 
 Essa abordagem garante que você esteja bem preparado para lidar com o aumento de tráfego, oferecendo uma solução escalável, custo-efetiva e de alta disponibilidade. Utilizando grupos de recursos, máquinas virtuais com Availability Sets e Scale Sets, você pode garantir que seu aplicativo web possa lidar com picos de tráfego sem interrupções, pagando apenas pelo uso efetivo das VMs e proporcionando uma experiência de usuário consistente e confiável.
+
+## Referência
+- [Documentação Scale Set](https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
+- [Documentação Availability Set](https://learn.microsoft.com/en-us/azure/virtual-machines/availability)

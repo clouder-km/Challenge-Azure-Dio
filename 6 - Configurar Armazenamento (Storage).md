@@ -61,4 +61,9 @@ Descrição: Um contêiner de blob é usado para armazenar grandes quantidades d
 ## Conclusão
 - Seguindo esses passos, você pode configurar uma conta de armazenamento no Azure com redundância GRS e criar um contêiner de blob para armazenar grandes quantidades de dados não estruturados. A migração de dados, quando bem planejada e executada, garante que os dados sejam transferidos de forma segura e eficiente para o novo ambiente de armazenamento.
 
-- Ao monitorar e ajustar continuamente o desempenho, você pode otimizar a eficiência e garantir que os dados estejam sempre disponíveis e protegidos. Essa abordagem não só melhora a resiliência e a disponibilidade dos seus dados, mas também proporciona uma solução de backup robusta e confiável. #
+- Ao monitorar e ajustar continuamente o desempenho, você pode otimizar a eficiência e garantir que os dados estejam sempre disponíveis e protegidos. Essa abordagem não só melhora a resiliência e a disponibilidade dos seus dados, mas também proporciona uma solução de backup robusta e confiável. 
+
+# Referência
+
+- [Documentação Storage Account Azure](https://learn.microsoft.com/en-us/azure/storage/)
+- [Documentação Migrate Azure](https://learn.microsoft.com/en-us/azure/migrate/)

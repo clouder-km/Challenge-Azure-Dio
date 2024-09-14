@@ -131,3 +131,7 @@ O Microsoft Defender for Cloud é uma ferramenta de gerenciamento de postura de 
 
 O Microsoft Entra ID e as soluções de segurança associadas, como o Multi-factor Authentication (MFA), Conditional Access, Role-Based Access Control (RBAC) e Microsoft Defender for Cloud, fornecem uma abordagem robusta e integrada para gerenciar identidades e proteger acessos em ambientes de nuvem e locais. Essas ferramentas ajudam a garantir que apenas usuários autorizados possam acessar recursos críticos, protegendo assim a integridade e a segurança dos dados da organização.
 
+## Referência
+
+- [Documentação Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity/)
+- [Documentação Security Azure](https://learn.microsoft.com/en-us/azure/security/)

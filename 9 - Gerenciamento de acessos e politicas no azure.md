@@ -117,3 +117,8 @@ O **Microsoft Service Trust Portal (STP)** é um ponto central para informaçõe
 ## Conclusão
 
 Locks e políticas no Azure são ferramentas essenciais para garantir a segurança e conformidade dos recursos na nuvem. Os locks protegem contra exclusões e alterações acidentais, enquanto as políticas asseguram que os recursos estejam em conformidade com os padrões organizacionais. Implementar essas práticas ajuda a manter um ambiente de nuvem seguro e bem gerenciado.
+
+## Referência
+
+- [Microsoft Service Trust Portal](https://servicetrust.microsoft.com/)
+- [Documentação Policy Azure](https://learn.microsoft.com/en-us/azure/governance/policy/)

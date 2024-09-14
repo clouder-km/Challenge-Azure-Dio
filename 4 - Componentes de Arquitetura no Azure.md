@@ -62,3 +62,4 @@ Conhecer os componentes de Arquitetura do Azure para aplicar no dia a dia.
 Compreender os componentes de arquitetura do Azure é essencial para a construção de soluções robustas, escaláveis e seguras na nuvem. Cada componente desempenha um papel crucial, desde a computação e armazenamento de dados até a segurança e integração.
 
 Para a aplicação prática desses componentes no dia a dia permite otimizar recursos, melhorar a eficiência operacional e garantir a segurança dos dados e serviços.
+

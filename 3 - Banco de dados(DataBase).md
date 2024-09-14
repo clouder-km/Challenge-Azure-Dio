@@ -60,3 +60,7 @@ O objetivo deste guia é demonstrar como criar e configurar uma instância de ba
 ## Conclusão
 Seguindo estes passos, você conseguirá criar e configurar uma instância de banco de dados no Azure. Este processo envolve a criação de um grupo de recursos, a configuração detalhada da instância de banco de dados e a implementação de medidas de segurança e desempenho.
 
+## Referência
+
+- [Documentação Database Azure](https://azure.microsoft.com/pt-br/products/azure-sql/database/)
+

@@ -35,10 +35,12 @@ Para atender a essa necessidade , a solução envolve os seguintes passos:
 
      ![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/2.6%20create%20VM.PNG)
 
-    3. #### Conclusão
-      - Seguindo os passos descritos, você conseguirá criar e configurar uma máquina virtual no Azure para fins de laboratório de forma eficiente. Este processo envolve a criação de um grupo de recursos para organizar todos os componentes do projeto e a configuração detalhada da máquina virtual conforme suas necessidades específicas de CPU, memória e armazenamento. Lembre-se de revisar as configurações padrão oferecidas pelo Azure para otimizar custos e garantir que a máquina virtual atenda aos requisitos do seu projeto.
+## Conclusão
+  Seguindo os passos descritos, você conseguirá criar e configurar uma máquina virtual no Azure para fins de laboratório de forma eficiente. Este processo envolve a criação de um grupo de recursos para organizar todos os componentes do projeto e a configuração detalhada da máquina virtual conforme suas necessidades específicas de CPU, memória e armazenamento. Lembre-se de revisar as configurações padrão oferecidas pelo Azure para otimizar custos e garantir que a máquina virtual atenda aos requisitos do seu projeto.
 
+## Referência
 
+- [Documentação Virtual Machine](https://learn.microsoft.com/pt-br/azure/virtual-machines/)
 
      
      

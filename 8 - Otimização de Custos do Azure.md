@@ -75,6 +75,4 @@ Utilizar as calculadoras de preços do Azure é fundamental para planejar e gere
 
 ## Referências
 
-- [Calculadora de Preços do Azure](https://azure.microsoft.com/pt-br/pricing/calculator/)
-- [Calculadora TCO do Azure](https://azure.microsoft.com/pt-br/pricing/tco/calculator/)
 - [Documentação Custos Azure](https://learn.microsoft.com/pt-br/azure/cost-management-billing/costs/pricing-calculator)

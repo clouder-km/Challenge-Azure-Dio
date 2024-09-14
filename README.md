@@ -8,7 +8,7 @@ A Certificação do AZ-900 é conceitual estude todos os conceitos fundamentais 
 Aqui você encontrará uma série de laboratórios práticos e materiais que utilizei para estudar que fazem parte do Bootcamp Microsoft Essentials.
 
 ### 1.1 Projetos e Desafios
-Nesta seção, você encontrará projetos e desafios que completei no Bootcamp DIO : cada desafio terá as instruções do passo a passo que eu fiz.
+Nesta seção, você encontrará projetos e desafios que completei no Bootcamp DIO : cada desafio terá as instruções do passo a passo.
 
 - ⭐ Desafio 1 - [Conhecendo o Azure Portal](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/1%20-%20AZURE%20PORTAL.md). 
 - ⭐ Desafio 2 - [Criação de VMs Máquinas Virtuais](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/2%20-%20Virtual%20Machine.md).
@@ -19,8 +19,8 @@ Nesta seção, você encontrará projetos e desafios que completei no Bootcamp D
 - ⭐ Desafio 7 - [Entender sobre Identidade e Segurança no Azure](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/7%20-%20Microsoft%20Entra%20ID%20e%20Security.md).
 - ⭐ Desafio 8 - [Otimização de Custos do Azure](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/8%20-%20Otimiza%C3%A7%C3%A3o%20de%20Custos%20do%20Azure.md).
 - ⭐ Desafio 9 - [Gerenciamento de Acessos e Política no Azure](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/9%20-%20Gerenciamento%20de%20acessos%20e%20politicas%20no%20azure.md).
-- ⭐ Desafio 10 - [Ferramentas de Implantação no Azure](https://gihub.com).
-- ⭐ Desafio 11 - [Ferramentas de Monitoração do Azure](https://gihub.com).
+- ⭐ Desafio 10 - [Ferramentas de Implantação no Azure](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/10%20-%20Ferramentas%20de%20Implanta%C3%A7%C3%A3o%20e%20Gerenciamento%20no%20Azure.md).
+- ⭐ Desafio 11 - [Ferramentas de Monitoração do Azure](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/11%20-%20Monitoramento%20Inteligente.md).
 
 
 ### 2. Documentação do Azure

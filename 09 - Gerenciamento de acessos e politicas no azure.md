@@ -7,6 +7,8 @@ Como utilizar locks e políticas no Azure para proteger e gerenciar recursos, ga
 
 O **Microsoft Service Trust Portal (STP)** é um ponto central para informações sobre segurança, conformidade regulatória e privacidade relacionadas aos serviços de nuvem da Microsoft. Ele fornece uma variedade de conteúdos, ferramentas e outros recursos que ajudam a entender como os serviços de nuvem da Microsoft protegem seus dados e como você pode gerenciar a segurança e conformidade dos dados na nuvem.
 
+![alt text](https://github.com/clouder-km/Challenge-Azure-Dio/blob/main/image/servicetrust.PNG)
+
 ### Tipos de Lock 
 
 #### Lock Delete

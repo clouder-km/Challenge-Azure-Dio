@@ -11,7 +11,7 @@ O **Microsoft Service Trust Portal (STP)** é um ponto central para informaçõe
 
 #### Lock Delete
   - A nivel do Resource Group este lock não deleta o resource group mas pode fazer alterações nos recursos. 
-  - A nivel do Resource o lock não deleta os recursos. Agora Se tivermos o lock em um recurso e outro recurso não tiver lock e for deletar o Resource Group não irá deletar nenhum recurso mesmo que os outros recursos não tenham lock.
+  - A nivel do Resource o lock não deleta os recursos. Agora Se tivermos o lock em um recurso e outro recurso não tiver lock e for deletar o Resource Group não irá deletar nenhum recurso.
 #### Lock Read-Only 
   - A nivel do Resource Group este lock somente deixará ler as informações não irá deixar deletar e nem alterar (atualizar) qualquer recurso. 
   - A nivel do Resource somente aquele recurso não irá deixar deletar e alterar porém se deletar o resource group não irá deixar deletar da mesma forma.
